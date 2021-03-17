@@ -1,0 +1,26 @@
+{
+  "name": "typescript-the-complete-developers-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidandang/typescript-the-complete-developers-guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidandang/typescript-the-complete-developers-guide/issues"
+  },
+  "homepage": "https://github.com/aidandang/typescript-the-complete-developers-guide#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.3"
+  }
+}
